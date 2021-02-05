@@ -1,0 +1,15 @@
+django
+gunicorn
+django-heroku
+Flask
+ptvsd
+pandas
+plotly
+numpy
+sympy
+dash
+dash-bootstrap-components
+mpmath
+dash_daq
+seaborne
+matplotlib
